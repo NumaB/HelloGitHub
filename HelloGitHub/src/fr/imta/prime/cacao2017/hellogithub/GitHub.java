@@ -10,5 +10,6 @@ public class GitHub {
 	public static void main(String[] args) {
 		AfficherNom("julienbeisel");
 		AfficherNom("appolinec");
+		AfficherNom("NumaB");
 	}
 }
